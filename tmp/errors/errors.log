@@ -1,0 +1,934 @@
+ 2022-02-23 23-46-29 
+                                     
+Error code: 2. 
+                                     
+Error message: foreach() argument must be of type array|object, string given,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\Model.php, on line: 85 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-35-08 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 14 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-36-16 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 14 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-36-17 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 14 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-36-18 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{ post.id }}>' at line 1,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: D:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-36-20 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 14 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-36-25 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 14 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-37-07 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 18 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-38-53 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 25 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-38-53 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: D:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-38-54 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 25 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-38-54 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: D:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-38-54 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined variable $post,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\view\main\index.twig, on line: 25 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-38-54 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: D:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-49-36 
+                                     
+Error code: Exception. 
+                                     
+Error message: View D:\OpenServer\domains\phpblog.com/app/view/main/category.twig - not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\View.php, on line: D:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-49-40 
+                                     
+Error code: Exception. 
+                                     
+Error message: View D:\OpenServer\domains\phpblog.com/app/view/main/category.twig - not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\View.php, on line: D:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-49-40 
+                                     
+Error code: Exception. 
+                                     
+Error message: View D:\OpenServer\domains\phpblog.com/app/view/main/about.twig - not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\View.php, on line: D:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-49-43 
+                                     
+Error code: Exception. 
+                                     
+Error message: View D:\OpenServer\domains\phpblog.com/app/view/main/single.twig - not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\View.php, on line: D:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-24 22-49-43 
+                                     
+Error code: Exception. 
+                                     
+Error message: View D:\OpenServer\domains\phpblog.com/app/view/main/single.twig - not found,  
+                                     
+in file: D:\OpenServer\domains\phpblog.com\app\core\View.php, on line: D:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-27 21-13-46 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[HY000] [1049] Unknown database 'mvc_framework',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\DB.php, on line: E:\OpenServer\domains\phpblog.com\app\core\DB.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-27 21-13-48 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[HY000] [1049] Unknown database 'mvc_framework',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\DB.php, on line: E:\OpenServer\domains\phpblog.com\app\core\DB.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-27 22-42-46 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[HY000] [1049] Unknown database 'mvc_framework',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\DB.php, on line: E:\OpenServer\domains\phpblog.com\app\core\DB.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-27 22-49-27 
+                                     
+Error code: 2. 
+                                     
+Error message: Trying to access array offset on value of type bool,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\user\MainController.php, on line: 16 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-27 22-50-18 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpblog.comments' doesn't exist,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-27 22-50-26 
+                                     
+Error code: 2. 
+                                     
+Error message: Trying to access array offset on value of type bool,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\user\MainController.php, on line: 16 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-05-03 
+                                     
+Error code: 2. 
+                                     
+Error message: Trying to access array offset on value of type bool,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\user\MainController.php, on line: 16 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-20-26 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'activation' in 'field list',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-20-28 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'activation' in 'field list',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-20-30 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'activation' in 'field list',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-22-49 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "register_date",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\user\main\index.php, on line: 17 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-23-28 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "register_date",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\user\main\index.php, on line: 17 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-23-30 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "register_date",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\user\main\index.php, on line: 17 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-23-34 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "register_date",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\user\main\index.php, on line: 17 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-23-34 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "register_date",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\user\main\index.php, on line: 17 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-23-41 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "register_date",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\user\main\index.php, on line: 17 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-24-19 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpblog.posts_users_bookmarks' doesn't exist,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-26-17 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'phpblog.tags.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-02-28 20-26-24 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'phpblog.tags.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-01 00-05-32 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'phpblog.tags.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-01 00-05-48 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'phpblog.tags.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-01 00-06-12 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'phpblog.tags.title' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-01 00-07-57 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1140 In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'phpblog.tags.id'; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-01 00-09-19 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1140 In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'phpblog.tags.id'; this is incompatible with sql_mode=only_full_group_by,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-07 21-12-04 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'is_published' at row 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-07 21-13-56 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'is_published' at row 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-07 21-19-12 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form-control'>                <label class=',content = '<p>Lorem ipsum dolor sit' at line 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-07 21-38-12 
+                                     
+Error code: Exception. 
+                                     
+Error message: Class not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-07 21-38-30 
+                                     
+Error code: Exception. 
+                                     
+Error message: Class not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 19-46-39 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/account/index.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 19-46-52 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/account/index.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 21-36-00 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/account/reset.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 22-45-05 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 22-46-30 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@mail.ru' at line 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 22-48-55 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/account/reset.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 22-58-15 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/account/reset.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-20 23-02-44 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@mail.ru, 1dd6b7572953e7d3e9b0ca5971e4aa6f, 1647806624)' at line 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 22-07-07 
+                                     
+Error code: 1. 
+                                     
+Error message: Uncaught TypeError: app\core\ErrorHelper::exceptionHandler(): Argument #1 ($e) must be of type Exception, ParseError given in E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php:39
+Stack trace:
+#0 [internal function]: app\core\ErrorHelper->exceptionHandler()
+#1 {main}
+  thrown,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php, on line: 39 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 22-07-10 
+                                     
+Error code: 1. 
+                                     
+Error message: Uncaught TypeError: app\core\ErrorHelper::exceptionHandler(): Argument #1 ($e) must be of type Exception, ParseError given in E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php:39
+Stack trace:
+#0 [internal function]: app\core\ErrorHelper->exceptionHandler()
+#1 {main}
+  thrown,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php, on line: 39 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 22-07-49 
+                                     
+Error code: Exception. 
+                                     
+Error message: Method not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 22-08-11 
+                                     
+Error code: Exception. 
+                                     
+Error message: Method not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-13-16 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 10 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-13-31 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 10 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-13-38 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 10 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-19-59 
+                                     
+Error code: 1. 
+                                     
+Error message: Uncaught TypeError: app\core\ErrorHelper::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php:39
+Stack trace:
+#0 [internal function]: app\core\ErrorHelper->exceptionHandler()
+#1 {main}
+  thrown,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php, on line: 39 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-20-46 
+                                     
+Error code: 1. 
+                                     
+Error message: Uncaught TypeError: app\core\ErrorHelper::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php:39
+Stack trace:
+#0 [internal function]: app\core\ErrorHelper->exceptionHandler()
+#1 {main}
+  thrown,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\ErrorHelper.php, on line: 39 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-20-59 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-21-10 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-02 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-05 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-05 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-06 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-06 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-06 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-07 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-07 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-07 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-22-09 
+                                     
+Error code: 2. 
+                                     
+Error message: Array to string conversion,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\view\account\forgotpass.php, on line: 9 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-26-50 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpblog.reset_password' doesn't exist,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-27-29 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S22]: Column not found: 1054 Unknown column '577b5e21598675ab9635fdef656c721c' in 'where clause',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-27-56 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "expire",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\AccountController.php, on line: 217 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-33-42 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "time_expire",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\AccountController.php, on line: 217 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-34-36 
+                                     
+Error code: 2. 
+                                     
+Error message: Trying to access array offset on value of type int,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\AccountController.php, on line: 217 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-35-07 
+                                     
+Error code: 2. 
+                                     
+Error message: Undefined array key "time_expire",  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\controller\AccountController.php, on line: 217 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-37-08 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/account/newpassword.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-44-32 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-21 23-47-19 
+                                     
+Error code: Exception. 
+                                     
+Error message: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$2y$10$fH74Dlb3OVvjoqa3ukaD0e' in 'field list',  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php, on line: E:\OpenServer\domains\phpblog.com\app\lib\rb-mysql.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-34-15 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-34-25 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-34-28 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-41-16 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-41-31 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-42-26 
+                                     
+Error code: Exception. 
+                                     
+Error message: View E:\OpenServer\domains\phpblog.com/app/view/post/bookmark.php - not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\View.php, on line: E:\OpenServer\domains\phpblog.com\app\core\View.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-44-02 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-44-14 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-44-20 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-44-21 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-45-14 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-45-16 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-45-26 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-45-27 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-45-28 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->
+ 2022-03-24 22-45-31 
+                                     
+Error code: Exception. 
+                                     
+Error message: Page not found,  
+                                     
+in file: E:\OpenServer\domains\phpblog.com\app\core\Router.php, on line: E:\OpenServer\domains\phpblog.com\app\core\Router.php 
+                                     
+<----------------------------------------------------------------------->

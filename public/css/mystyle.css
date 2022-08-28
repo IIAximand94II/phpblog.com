@@ -1,0 +1,38 @@
+/* php validation errors */
+.error-block{
+    border: 1px solid red;
+    max-width: 548px;
+    color: red;
+    font-style: italic;
+}
+
+.success-block{
+    border: 1px solid green;
+    color: green;
+    max-width: 548px;
+    font-style: italic;
+}
+
+/* form validation errors */
+
+.form-input:invalid{
+    border: 2px solid red;
+}
+
+.form-input:valid{
+    border: 2px solid green;
+}
+
+.error{
+    max-width: 100%;
+    padding: 0;
+    font-size: 75%;
+    color: red;
+    background-color: #900;
+    box-sizing: border-box;
+
+}
+
+.error.active{
+    padding: 0.3em;
+}

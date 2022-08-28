@@ -1,2 +1,1 @@
-# phpblog.com
-php blog
+# mvc
